@@ -17,16 +17,16 @@
 
 - 📫 How to reach me **subham.jagannath2@gmail.com**
 
-- 📄 Know about my experiences [techysubham.tech](https://techysubham.tech)
+- 📄 Know about my experiences [https://techysubham.github.io](https://techysubham.github.io)
 
 - ⚡ Fun fact **I have a Discord Server**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/techysubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techysubham" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/techysubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techysubham" height="30" width="40" /></a>
-<a href="https://instagram.com/_technicalsubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_technicalsubham" height="30" width="40" /></a>
-<a href="https://discord.gg/jJpGCd6CyE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jJpGCd6CyE" height="30" width="40" /></a>
+<a href="https://twitter.com/techysubham" target="blank"><img align="center" src="https://static.thenounproject.com/png/3542401-200.png" alt="techysubham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/techysubham" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="techysubham" height="30" width="40" /></a>
+<a href="https://instagram.com/techysubham" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" alt="techysubham" height="30" width="40" /></a>
+<a href="https://discord.gg/jJpGCd6CyE" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="jJpGCd6CyE" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
